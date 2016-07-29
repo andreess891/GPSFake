@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<gpx
+xmlns="http://www.topografix.com/GPX/1/1"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd"
+version="1.1" 
+creator="gpx-poi.com">
+<!-- Virgen los pinos -->
+<!--
+   <wpt lat="6.252080" lon="-75.600831">
+      <time>2016-07-28T23:09:21Z</time>
+   </wpt>
+ -->
+
+<!-- Parque de la floresta -->
+
+<wpt lat="6.255733" lon="-75.601710">
+    <time>2016-07-28T23:09:21Z</time>
+</wpt>
+ 
+
+
+<!-- Parque de laureles -->
+<!--
+<wpt lat="6.245572" lon="-75.596865">
+    <time>2016-07-28T23:09:21Z</time>
+</wpt>
+-->
+ 
+<!-- Parque del poblado -->
+<!--
+ <wpt lat="6.210362" lon="-75.570950">
+ <time>2016-07-28T23:09:21Z</time>
+ </wpt>
+-->
+
+<!-- gimnasio -->
+<!--
+ <wpt lat="6.246854" lon="-75.596434">
+ <time>2016-07-28T23:09:21Z</time>
+ </wpt>
+ -->
+
+<!-- Estadio -->
+<!--
+ <wpt lat="6.257071" lon="-75.588954">
+ <time>2016-07-28T23:09:21Z</time>
+ </wpt>
+ -->
+
+</gpx>
