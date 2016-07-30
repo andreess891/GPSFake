@@ -34,9 +34,31 @@ creator="gpx-poi.com">
  </wpt>
 
 
+<!-- Parque del lleras 1 -->
+<!--
+<wpt lat="6.209045" lon="-75.568177">
+    <time>2016-07-28T23:09:21Z</time>
+</wpt>
+-->
+ 
+<!-- Parque del lleras 2 -->
+<!--
+ <wpt lat="6.208937" lon="-75.567847">
+ <time>2016-07-28T23:09:21Z</time>
+ </wpt>
+-->
+ 
+<!-- Parque del lleras 3 -->
+<!--
+<wpt lat="6.208793" lon="-75.567426">
+    <time>2016-07-28T23:09:21Z</time>
+</wpt>
+-->
+
+
 <!-- gimnasio -->
 <!--
- <wpt lat="6.246854" lon="-75.596434">
+ <wpt lat="6.208916" lon="-75.596434">
  <time>2016-07-28T23:09:21Z</time>
  </wpt>
  -->
