@@ -32,7 +32,7 @@ creator="gpx-poi.com">
  <wpt lat="6.210362" lon="-75.570950">
  <time>2016-07-28T23:09:21Z</time>
  </wpt>
-
+ 
 
 <!-- entre poblado y lleras 1 -->
 <!--
@@ -43,7 +43,7 @@ creator="gpx-poi.com">
 
 <!-- entre poblado y lleras 2 -->
 <!--
- <wpt lat="6.209173" lon="-75.569844">
+ <wpt lat="6.209130" lon="-75.569522">
  <time>2016-07-28T23:09:21Z</time>
  </wpt>
  -->
@@ -80,6 +80,13 @@ creator="gpx-poi.com">
 <!-- Estadio -->
 <!--
  <wpt lat="6.257071" lon="-75.588954">
+ <time>2016-07-28T23:09:21Z</time>
+ </wpt>
+ -->
+
+<!-- Santa monica, CA (Cabuto, Jynx) -->
+<!--
+ <wpt lat="33.999828" lon="-118.485499">
  <time>2016-07-28T23:09:21Z</time>
  </wpt>
  -->
