@@ -34,6 +34,20 @@ creator="gpx-poi.com">
  </wpt>
 
 
+<!-- entre poblado y lleras 1 -->
+<!--
+ <wpt lat="6.208821" lon="-75.570445">
+ <time>2016-07-28T23:09:21Z</time>
+ </wpt>
+ -->
+
+<!-- entre poblado y lleras 2 -->
+<!--
+ <wpt lat="6.209173" lon="-75.569844">
+ <time>2016-07-28T23:09:21Z</time>
+ </wpt>
+ -->
+
 <!-- Parque del lleras 1 -->
 <!--
 <wpt lat="6.209045" lon="-75.568177">
@@ -49,11 +63,11 @@ creator="gpx-poi.com">
 -->
  
 <!-- Parque del lleras 3 -->
-<!--
+
 <wpt lat="6.208793" lon="-75.567426">
     <time>2016-07-28T23:09:21Z</time>
 </wpt>
--->
+
 
 
 <!-- gimnasio -->
