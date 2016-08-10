@@ -241,6 +241,7 @@
 				TargetAttributes = {
 					7F7EDC211D4AC5FA004599FF = {
 						CreatedOnToolsVersion = 7.3.1;
+						DevelopmentTeam = 96BQQ3TJ76;
 					};
 					7F7EDC3A1D4AC5FA004599FF = {
 						CreatedOnToolsVersion = 7.3.1;
@@ -497,6 +498,7 @@
 			baseConfigurationReference = CA207527CDCC32D7D1D81C7E /* Pods-Fake.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				INFOPLIST_FILE = Fake/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.example.Fake;
@@ -509,6 +511,7 @@
 			baseConfigurationReference = F6149F4C1CD05671EF62F874 /* Pods-Fake.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				INFOPLIST_FILE = Fake/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.example.Fake;

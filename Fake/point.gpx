@@ -32,7 +32,7 @@ creator="gpx-poi.com">
  <wpt lat="6.210362" lon="-75.570950">
  <time>2016-07-28T23:09:21Z</time>
  </wpt>
- 
+
 
 <!-- entre poblado y lleras 1 -->
 <!--
@@ -48,19 +48,14 @@ creator="gpx-poi.com">
  </wpt>
  -->
 
+
 <!-- Parque del lleras 1 -->
 <!--
-<wpt lat="6.209045" lon="-75.568177">
-    <time>2016-07-28T23:09:21Z</time>
-</wpt>
--->
- 
-<!-- Parque del lleras 2 -->
-<!--
- <wpt lat="6.208937" lon="-75.567847">
+ <wpt lat="6.208991" lon="-75.568064">
  <time>2016-07-28T23:09:21Z</time>
  </wpt>
--->
+ -->
+ 
  
 <!-- Parque del lleras 3 -->
 <!--
@@ -86,9 +81,36 @@ creator="gpx-poi.com">
 
 <!-- Santa monica, CA (Cabuto, Jynx) -->
 <!--
- <wpt lat="33.999828" lon="-118.485499">
+ <wpt lat="33.999512" lon="-118.486250">
  <time>2016-07-28T23:09:21Z</time>
  </wpt>
+  -->
+
+<!--
+ <wpt lat="34.000717" lon="-118.485837">
+     <time>2016-07-28T23:09:21Z</time>
+ </wpt>
  -->
+
+ <!--
+ <wpt lat="34.000775" lon="-118.486492">
+     <time>2016-07-28T23:09:21Z</time>
+ </wpt>
+-->
+ 
+
+<!-- Santa monica, CA (Cabuto, Jynx) gimnasio y pokeparada(2)-->
+<!--
+<wpt lat="34.013645" lon="-118.498240">
+    <time>2016-07-28T23:09:21Z</time>
+</wpt>
+-->
+
+<!-- TEST -->
+<!--
+<wpt lat="40.431859" lon="116.570402">
+    <time>2016-07-28T23:09:21Z</time>
+</wpt>
+-->
 
 </gpx>

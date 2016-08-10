@@ -42,7 +42,8 @@
                   options:NSKeyValueObservingOptionNew
                   context:NULL];
     
-    [self.view addSubview: _mapView];
+    self.view = _mapView;
+    //[self.view addSubview: _mapView];
     
     // Ask for My Location data after the map has already been added to the UI.
     dispatch_async(dispatch_get_main_queue(), ^{
