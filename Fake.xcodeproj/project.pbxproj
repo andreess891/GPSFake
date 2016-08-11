@@ -54,6 +54,13 @@
 		7F7EDC461D4AC5FA004599FF /* FakeUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = FakeUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		7F7EDC4A1D4AC5FA004599FF /* FakeUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = FakeUITests.m; sourceTree = "<group>"; };
 		7F7EDC4C1D4AC5FA004599FF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		7FACC8F71D5C2AF000C6ED59 /* ParquePoblado.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = ParquePoblado.gpx; sourceTree = "<group>"; };
+		7FACC8F91D5C2BA200C6ED59 /* EntreParqueyLLeras1.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = EntreParqueyLLeras1.gpx; sourceTree = "<group>"; };
+		7FACC8FA1D5C2BC300C6ED59 /* EntreParqueyLLeras2.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = EntreParqueyLLeras2.gpx; sourceTree = "<group>"; };
+		7FACC8FB1D5C2BD300C6ED59 /* Lleras1.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = Lleras1.gpx; sourceTree = "<group>"; };
+		7FACC8FC1D5C2BE400C6ED59 /* Lleras2.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = Lleras2.gpx; sourceTree = "<group>"; };
+		7FACC8FD1D5C2DBD00C6ED59 /* Presidenta1.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = Presidenta1.gpx; sourceTree = "<group>"; };
+		7FACC8FE1D5C2EA000C6ED59 /* Presidenta2.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = Presidenta2.gpx; sourceTree = "<group>"; };
 		7FE6DC4E1D4BB3CA00A033D9 /* point.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = point.gpx; sourceTree = "<group>"; };
 		7FE6DC511D4C713600A033D9 /* CoreLocation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreLocation.framework; path = System/Library/Frameworks/CoreLocation.framework; sourceTree = SDKROOT; };
 		C9478876E17D3FEE82FB8346 /* libPods-Fake.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-Fake.a"; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -122,6 +129,7 @@
 		7F7EDC241D4AC5FA004599FF /* Fake */ = {
 			isa = PBXGroup;
 			children = (
+				7FACC8F81D5C2B7A00C6ED59 /* Puntos */,
 				7FE6DC4E1D4BB3CA00A033D9 /* point.gpx */,
 				7F7EDC281D4AC5FA004599FF /* AppDelegate.h */,
 				7F7EDC291D4AC5FA004599FF /* AppDelegate.m */,
@@ -160,6 +168,20 @@
 				7F7EDC4C1D4AC5FA004599FF /* Info.plist */,
 			);
 			path = FakeUITests;
+			sourceTree = "<group>";
+		};
+		7FACC8F81D5C2B7A00C6ED59 /* Puntos */ = {
+			isa = PBXGroup;
+			children = (
+				7FACC8F71D5C2AF000C6ED59 /* ParquePoblado.gpx */,
+				7FACC8F91D5C2BA200C6ED59 /* EntreParqueyLLeras1.gpx */,
+				7FACC8FA1D5C2BC300C6ED59 /* EntreParqueyLLeras2.gpx */,
+				7FACC8FB1D5C2BD300C6ED59 /* Lleras1.gpx */,
+				7FACC8FC1D5C2BE400C6ED59 /* Lleras2.gpx */,
+				7FACC8FD1D5C2DBD00C6ED59 /* Presidenta1.gpx */,
+				7FACC8FE1D5C2EA000C6ED59 /* Presidenta2.gpx */,
+			);
+			name = Puntos;
 			sourceTree = "<group>";
 		};
 		EE7F4CFC336BFE506573BA57 /* Pods */ = {
