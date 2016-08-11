@@ -61,6 +61,16 @@
 		7FACC8FC1D5C2BE400C6ED59 /* Lleras2.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = Lleras2.gpx; sourceTree = "<group>"; };
 		7FACC8FD1D5C2DBD00C6ED59 /* Presidenta1.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = Presidenta1.gpx; sourceTree = "<group>"; };
 		7FACC8FE1D5C2EA000C6ED59 /* Presidenta2.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = Presidenta2.gpx; sourceTree = "<group>"; };
+		7FACC9001D5D3E1400C6ED59 /* California1.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = California1.gpx; sourceTree = "<group>"; };
+		7FACC9011D5D3FD300C6ED59 /* California2.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = California2.gpx; sourceTree = "<group>"; };
+		7FACC9021D5D40E200C6ED59 /* California3.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = California3.gpx; sourceTree = "<group>"; };
+		7FACC9031D5D424E00C6ED59 /* California4.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = California4.gpx; sourceTree = "<group>"; };
+		7FACC9041D5D42DD00C6ED59 /* California5.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = California5.gpx; sourceTree = "<group>"; };
+		7FACC9051D5D433E00C6ED59 /* California6.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = California6.gpx; sourceTree = "<group>"; };
+		7FACC9061D5D434700C6ED59 /* California7.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = California7.gpx; sourceTree = "<group>"; };
+		7FACC9071D5D434F00C6ED59 /* California8.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = California8.gpx; sourceTree = "<group>"; };
+		7FACC9081D5D44D200C6ED59 /* California9.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = California9.gpx; sourceTree = "<group>"; };
+		7FACC9091D5D44DE00C6ED59 /* California10.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = California10.gpx; sourceTree = "<group>"; };
 		7FE6DC4E1D4BB3CA00A033D9 /* point.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = point.gpx; sourceTree = "<group>"; };
 		7FE6DC511D4C713600A033D9 /* CoreLocation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreLocation.framework; path = System/Library/Frameworks/CoreLocation.framework; sourceTree = SDKROOT; };
 		C9478876E17D3FEE82FB8346 /* libPods-Fake.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-Fake.a"; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -129,7 +139,8 @@
 		7F7EDC241D4AC5FA004599FF /* Fake */ = {
 			isa = PBXGroup;
 			children = (
-				7FACC8F81D5C2B7A00C6ED59 /* Puntos */,
+				7FACC8FF1D5D3DF700C6ED59 /* Puntos California */,
+				7FACC8F81D5C2B7A00C6ED59 /* Puntos medellin */,
 				7FE6DC4E1D4BB3CA00A033D9 /* point.gpx */,
 				7F7EDC281D4AC5FA004599FF /* AppDelegate.h */,
 				7F7EDC291D4AC5FA004599FF /* AppDelegate.m */,
@@ -170,7 +181,7 @@
 			path = FakeUITests;
 			sourceTree = "<group>";
 		};
-		7FACC8F81D5C2B7A00C6ED59 /* Puntos */ = {
+		7FACC8F81D5C2B7A00C6ED59 /* Puntos medellin */ = {
 			isa = PBXGroup;
 			children = (
 				7FACC8F71D5C2AF000C6ED59 /* ParquePoblado.gpx */,
@@ -181,7 +192,24 @@
 				7FACC8FD1D5C2DBD00C6ED59 /* Presidenta1.gpx */,
 				7FACC8FE1D5C2EA000C6ED59 /* Presidenta2.gpx */,
 			);
-			name = Puntos;
+			name = "Puntos medellin";
+			sourceTree = "<group>";
+		};
+		7FACC8FF1D5D3DF700C6ED59 /* Puntos California */ = {
+			isa = PBXGroup;
+			children = (
+				7FACC9001D5D3E1400C6ED59 /* California1.gpx */,
+				7FACC9011D5D3FD300C6ED59 /* California2.gpx */,
+				7FACC9021D5D40E200C6ED59 /* California3.gpx */,
+				7FACC9031D5D424E00C6ED59 /* California4.gpx */,
+				7FACC9041D5D42DD00C6ED59 /* California5.gpx */,
+				7FACC9051D5D433E00C6ED59 /* California6.gpx */,
+				7FACC9061D5D434700C6ED59 /* California7.gpx */,
+				7FACC9071D5D434F00C6ED59 /* California8.gpx */,
+				7FACC9081D5D44D200C6ED59 /* California9.gpx */,
+				7FACC9091D5D44DE00C6ED59 /* California10.gpx */,
+			);
+			name = "Puntos California";
 			sourceTree = "<group>";
 		};
 		EE7F4CFC336BFE506573BA57 /* Pods */ = {
