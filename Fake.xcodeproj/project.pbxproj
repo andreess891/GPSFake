@@ -15,7 +15,6 @@
 		7F7EDC351D4AC5FA004599FF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7F7EDC331D4AC5FA004599FF /* LaunchScreen.storyboard */; };
 		7F7EDC401D4AC5FA004599FF /* FakeTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 7F7EDC3F1D4AC5FA004599FF /* FakeTests.m */; };
 		7F7EDC4B1D4AC5FA004599FF /* FakeUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 7F7EDC4A1D4AC5FA004599FF /* FakeUITests.m */; };
-		7FACC90B1D5D62B600C6ED59 /* 493812.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 7FACC90A1D5D62B600C6ED59 /* 493812.gpx */; };
 		7FE6DC4F1D4BB3CA00A033D9 /* point.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 7FE6DC4E1D4BB3CA00A033D9 /* point.gpx */; };
 		7FE6DC521D4C713600A033D9 /* CoreLocation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 7FE6DC511D4C713600A033D9 /* CoreLocation.framework */; };
 		D0427F3F7E9FB0D7F983C6F7 /* libPods-Fake.a in Frameworks */ = {isa = PBXBuildFile; fileRef = C9478876E17D3FEE82FB8346 /* libPods-Fake.a */; };
@@ -72,7 +71,11 @@
 		7FACC9071D5D434F00C6ED59 /* California8.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = California8.gpx; sourceTree = "<group>"; };
 		7FACC9081D5D44D200C6ED59 /* California9.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = California9.gpx; sourceTree = "<group>"; };
 		7FACC9091D5D44DE00C6ED59 /* California10.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = California10.gpx; sourceTree = "<group>"; };
-		7FACC90A1D5D62B600C6ED59 /* 493812.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; name = 493812.gpx; path = ../../../../../Downloads/493812.gpx; sourceTree = "<group>"; };
+		7FACC90D1D5F6D5200C6ED59 /* Los pinos.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = "Los pinos.gpx"; sourceTree = "<group>"; };
+		7FACC90E1D5F75C100C6ED59 /* EstacionFlorestaGimnasio.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = EstacionFlorestaGimnasio.gpx; sourceTree = "<group>"; };
+		7FACC90F1D5F762800C6ED59 /* VirgenLosPinos.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = VirgenLosPinos.gpx; sourceTree = "<group>"; };
+		7FACC9101D5F7D7D00C6ED59 /* GimnasioCalazans.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = GimnasioCalazans.gpx; sourceTree = "<group>"; };
+		7FACC9111D5F87DD00C6ED59 /* ParqueFloresta.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = ParqueFloresta.gpx; sourceTree = "<group>"; };
 		7FE6DC4E1D4BB3CA00A033D9 /* point.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = point.gpx; sourceTree = "<group>"; };
 		7FE6DC511D4C713600A033D9 /* CoreLocation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreLocation.framework; path = System/Library/Frameworks/CoreLocation.framework; sourceTree = SDKROOT; };
 		C9478876E17D3FEE82FB8346 /* libPods-Fake.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-Fake.a"; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -141,7 +144,7 @@
 		7F7EDC241D4AC5FA004599FF /* Fake */ = {
 			isa = PBXGroup;
 			children = (
-				7FACC90A1D5D62B600C6ED59 /* 493812.gpx */,
+				7FACC90C1D5F6D3D00C6ED59 /* Rutas */,
 				7FACC8FF1D5D3DF700C6ED59 /* Puntos California */,
 				7FACC8F81D5C2B7A00C6ED59 /* Puntos medellin */,
 				7FE6DC4E1D4BB3CA00A033D9 /* point.gpx */,
@@ -194,6 +197,10 @@
 				7FACC8FC1D5C2BE400C6ED59 /* Lleras2.gpx */,
 				7FACC8FD1D5C2DBD00C6ED59 /* Presidenta1.gpx */,
 				7FACC8FE1D5C2EA000C6ED59 /* Presidenta2.gpx */,
+				7FACC90E1D5F75C100C6ED59 /* EstacionFlorestaGimnasio.gpx */,
+				7FACC90F1D5F762800C6ED59 /* VirgenLosPinos.gpx */,
+				7FACC9101D5F7D7D00C6ED59 /* GimnasioCalazans.gpx */,
+				7FACC9111D5F87DD00C6ED59 /* ParqueFloresta.gpx */,
 			);
 			name = "Puntos medellin";
 			sourceTree = "<group>";
@@ -213,6 +220,14 @@
 				7FACC9091D5D44DE00C6ED59 /* California10.gpx */,
 			);
 			name = "Puntos California";
+			sourceTree = "<group>";
+		};
+		7FACC90C1D5F6D3D00C6ED59 /* Rutas */ = {
+			isa = PBXGroup;
+			children = (
+				7FACC90D1D5F6D5200C6ED59 /* Los pinos.gpx */,
+			);
+			name = Rutas;
 			sourceTree = "<group>";
 		};
 		EE7F4CFC336BFE506573BA57 /* Pods */ = {
@@ -335,7 +350,6 @@
 				7FE6DC4F1D4BB3CA00A033D9 /* point.gpx in Resources */,
 				7F7EDC321D4AC5FA004599FF /* Assets.xcassets in Resources */,
 				7F7EDC301D4AC5FA004599FF /* Main.storyboard in Resources */,
-				7FACC90B1D5D62B600C6ED59 /* 493812.gpx in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
