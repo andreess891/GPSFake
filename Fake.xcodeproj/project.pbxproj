@@ -82,6 +82,7 @@
 		7FF5872C1D6D36540063B2F6 /* SanAndres1.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = SanAndres1.gpx; sourceTree = "<group>"; };
 		7FF5872D1D6D3A830063B2F6 /* SanAndres2.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = SanAndres2.gpx; sourceTree = "<group>"; };
 		7FF5872E1D6D3B770063B2F6 /* SanAndres3Gimansio.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = SanAndres3Gimansio.gpx; sourceTree = "<group>"; };
+		7FF5872F1D6E910F0063B2F6 /* ParquePobladoGym.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = ParquePobladoGym.gpx; sourceTree = "<group>"; };
 		C9478876E17D3FEE82FB8346 /* libPods-Fake.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-Fake.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		CA207527CDCC32D7D1D81C7E /* Pods-Fake.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Fake.debug.xcconfig"; path = "Pods/Target Support Files/Pods-Fake/Pods-Fake.debug.xcconfig"; sourceTree = "<group>"; };
 		F6149F4C1CD05671EF62F874 /* Pods-Fake.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Fake.release.xcconfig"; path = "Pods/Target Support Files/Pods-Fake/Pods-Fake.release.xcconfig"; sourceTree = "<group>"; };
@@ -206,6 +207,7 @@
 				7FACC90F1D5F762800C6ED59 /* VirgenLosPinos.gpx */,
 				7FACC9101D5F7D7D00C6ED59 /* GimnasioCalazans.gpx */,
 				7FACC9111D5F87DD00C6ED59 /* ParqueFloresta.gpx */,
+				7FF5872F1D6E910F0063B2F6 /* ParquePobladoGym.gpx */,
 			);
 			name = "Puntos medellin";
 			sourceTree = "<group>";
