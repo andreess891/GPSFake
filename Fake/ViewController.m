@@ -28,6 +28,28 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
+    [self loadMap];
+}
+
+- (void)observeValueForKeyPath:(NSString *)keyPath
+                      ofObject:(id)object
+                        change:(NSDictionary *)change
+                       context:(void *)context {
+    if (!_firstLocationUpdate) {
+        // If the first location update has not yet been recieved, then jump to that
+        // location.
+        _firstLocationUpdate = YES;
+        CLLocation *location = [change objectForKey:NSKeyValueChangeNewKey];
+        _mapView.camera = [GMSCameraPosition cameraWithTarget:location.coordinate
+                                                         zoom:14];
+    }
+}
+
+- (void)didReceiveMemoryWarning {
+    [super didReceiveMemoryWarning];
+}
+
+-(void) loadMap{
     GMSCameraPosition *camera = [GMSCameraPosition cameraWithLatitude:-33.868
                                                             longitude:151.2086
                                                                  zoom:12];
@@ -50,25 +72,6 @@
         _mapView.myLocationEnabled = YES;
     });
     NSLog(@"User's location: %@", _mapView.myLocation);
-}
-
-- (void)observeValueForKeyPath:(NSString *)keyPath
-                      ofObject:(id)object
-                        change:(NSDictionary *)change
-                       context:(void *)context {
-    if (!_firstLocationUpdate) {
-        // If the first location update has not yet been recieved, then jump to that
-        // location.
-        _firstLocationUpdate = YES;
-        CLLocation *location = [change objectForKey:NSKeyValueChangeNewKey];
-        _mapView.camera = [GMSCameraPosition cameraWithTarget:location.coordinate
-                                                         zoom:14];
-    }
-}
-
-- (void)didReceiveMemoryWarning {
-    [super didReceiveMemoryWarning];
-    // Dispose of any resources that can be recreated.
 }
 
 @end
