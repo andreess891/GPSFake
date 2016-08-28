@@ -10,6 +10,7 @@
 
 @interface ViewController : UIViewController<GMSMapViewDelegate, CLLocationManagerDelegate>
 
+@property (weak, nonatomic) IBOutlet GMSMapView *mapViewContainer;
 
 
 @end

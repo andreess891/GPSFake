@@ -32,7 +32,7 @@
                                                             longitude:151.2086
                                                                  zoom:12];
     
-    _mapView = [GMSMapView mapWithFrame:CGRectMake(0, 20, 320, 550) camera:camera];
+    _mapView = [GMSMapView mapWithFrame:_mapViewContainer.bounds camera:camera];
     _mapView.settings.compassButton = YES;
     _mapView.settings.myLocationButton = YES;
     
@@ -42,8 +42,8 @@
                   options:NSKeyValueObservingOptionNew
                   context:NULL];
     
-    self.view = _mapView;
-    //[self.view addSubview: _mapView];
+    //self.view = _mapView;
+    [_mapViewContainer addSubview:_mapView];
     
     // Ask for My Location data after the map has already been added to the UI.
     dispatch_async(dispatch_get_main_queue(), ^{
