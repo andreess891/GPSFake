@@ -78,6 +78,10 @@
 		7FACC9111D5F87DD00C6ED59 /* ParqueFloresta.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = ParqueFloresta.gpx; sourceTree = "<group>"; };
 		7FE6DC4E1D4BB3CA00A033D9 /* point.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = point.gpx; sourceTree = "<group>"; };
 		7FE6DC511D4C713600A033D9 /* CoreLocation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreLocation.framework; path = System/Library/Frameworks/CoreLocation.framework; sourceTree = SDKROOT; };
+		7FF217EC1D73BFBA00075014 /* hoyorrico.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = hoyorrico.gpx; sourceTree = "<group>"; };
+		7FF217ED1D73C19E00075014 /* santaRosa.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = santaRosa.gpx; sourceTree = "<group>"; };
+		7FF217EE1D73C24200075014 /* Yarumal.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = Yarumal.gpx; sourceTree = "<group>"; };
+		7FF217EF1D73C64800075014 /* San Felix.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = "San Felix.gpx"; sourceTree = "<group>"; };
 		7FF5872A1D6D35B00063B2F6 /* SanAndres.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = SanAndres.gpx; sourceTree = "<group>"; };
 		7FF5872C1D6D36540063B2F6 /* SanAndres1.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = SanAndres1.gpx; sourceTree = "<group>"; };
 		7FF5872D1D6D3A830063B2F6 /* SanAndres2.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = SanAndres2.gpx; sourceTree = "<group>"; };
@@ -149,6 +153,7 @@
 		7F7EDC241D4AC5FA004599FF /* Fake */ = {
 			isa = PBXGroup;
 			children = (
+				7FF217EB1D73BEF400075014 /* Santa rosa */,
 				7FF5872B1D6D36380063B2F6 /* Puntos San andres isla */,
 				7FACC90C1D5F6D3D00C6ED59 /* Rutas */,
 				7FACC8FF1D5D3DF700C6ED59 /* Puntos California */,
@@ -236,6 +241,17 @@
 				7FF5872A1D6D35B00063B2F6 /* SanAndres.gpx */,
 			);
 			name = Rutas;
+			sourceTree = "<group>";
+		};
+		7FF217EB1D73BEF400075014 /* Santa rosa */ = {
+			isa = PBXGroup;
+			children = (
+				7FF217EC1D73BFBA00075014 /* hoyorrico.gpx */,
+				7FF217ED1D73C19E00075014 /* santaRosa.gpx */,
+				7FF217EE1D73C24200075014 /* Yarumal.gpx */,
+				7FF217EF1D73C64800075014 /* San Felix.gpx */,
+			);
+			name = "Santa rosa";
 			sourceTree = "<group>";
 		};
 		7FF5872B1D6D36380063B2F6 /* Puntos San andres isla */ = {
