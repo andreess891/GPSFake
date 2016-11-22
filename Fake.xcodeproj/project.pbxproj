@@ -38,6 +38,10 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		7F211AFD1DE2678E009653BA /* ParquePobladoAbajo.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = ParquePobladoAbajo.gpx; sourceTree = "<group>"; };
+		7F211AFE1DE2685E009653BA /* ExitoPobladoArriba.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = ExitoPobladoArriba.gpx; sourceTree = "<group>"; };
+		7F211AFF1DE26902009653BA /* ExitoPoblado.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = ExitoPoblado.gpx; sourceTree = "<group>"; };
+		7F211B001DE26916009653BA /* ExitoMasAbajo.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = ExitoMasAbajo.gpx; sourceTree = "<group>"; };
 		7F7EDC221D4AC5FA004599FF /* Fake.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Fake.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		7F7EDC261D4AC5FA004599FF /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		7F7EDC281D4AC5FA004599FF /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -213,6 +217,10 @@
 				7FACC9101D5F7D7D00C6ED59 /* GimnasioCalazans.gpx */,
 				7FACC9111D5F87DD00C6ED59 /* ParqueFloresta.gpx */,
 				7FF5872F1D6E910F0063B2F6 /* ParquePobladoGym.gpx */,
+				7F211AFD1DE2678E009653BA /* ParquePobladoAbajo.gpx */,
+				7F211AFE1DE2685E009653BA /* ExitoPobladoArriba.gpx */,
+				7F211AFF1DE26902009653BA /* ExitoPoblado.gpx */,
+				7F211B001DE26916009653BA /* ExitoMasAbajo.gpx */,
 			);
 			name = "Puntos medellin";
 			sourceTree = "<group>";
