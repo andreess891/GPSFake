@@ -42,6 +42,27 @@
 		7F211AFE1DE2685E009653BA /* ExitoPobladoArriba.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = ExitoPobladoArriba.gpx; sourceTree = "<group>"; };
 		7F211AFF1DE26902009653BA /* ExitoPoblado.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = ExitoPoblado.gpx; sourceTree = "<group>"; };
 		7F211B001DE26916009653BA /* ExitoMasAbajo.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = ExitoMasAbajo.gpx; sourceTree = "<group>"; };
+		7F211B011DE3CF1C009653BA /* California11.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = California11.gpx; sourceTree = "<group>"; };
+		7F211B021DE3D0A2009653BA /* California12.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = California12.gpx; sourceTree = "<group>"; };
+		7F2A492F1DEA3CDE00046E44 /* SANFRANCISCO_1.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = SANFRANCISCO_1.gpx; sourceTree = "<group>"; };
+		7F2A49301DEA3CE700046E44 /* SANFRANCISCO_2.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = SANFRANCISCO_2.gpx; sourceTree = "<group>"; };
+		7F2A49311DEA3CEF00046E44 /* SANFRANCISCO_3.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = SANFRANCISCO_3.gpx; sourceTree = "<group>"; };
+		7F2A49321DEA3CF500046E44 /* SANFRANCISCO_4.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = SANFRANCISCO_4.gpx; sourceTree = "<group>"; };
+		7F2A49331DEA3CFC00046E44 /* SANFRANCISCO_5.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = SANFRANCISCO_5.gpx; sourceTree = "<group>"; };
+		7F2A49341DEA3D0300046E44 /* SANFRANCISCO_6.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = SANFRANCISCO_6.gpx; sourceTree = "<group>"; };
+		7F2A49351DEA3D0900046E44 /* SANFRANCISCO_7.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = SANFRANCISCO_7.gpx; sourceTree = "<group>"; };
+		7F2A49361DEA3D1100046E44 /* SANFRANCISCO_8.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = SANFRANCISCO_8.gpx; sourceTree = "<group>"; };
+		7F2A49371DEA3D1900046E44 /* SANFRANCISCO_9.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = SANFRANCISCO_9.gpx; sourceTree = "<group>"; };
+		7F2A49381DEA3D1E00046E44 /* SANFRANCISCO_10.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = SANFRANCISCO_10.gpx; sourceTree = "<group>"; };
+		7F2A49391DEA41FE00046E44 /* SANFRANCISCO_11.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = SANFRANCISCO_11.gpx; sourceTree = "<group>"; };
+		7F2A493A1DEA420500046E44 /* SANFRANCISCO_12.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = SANFRANCISCO_12.gpx; sourceTree = "<group>"; };
+		7F2A493B1DEA420A00046E44 /* SANFRANCISCO_13.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = SANFRANCISCO_13.gpx; sourceTree = "<group>"; };
+		7F2A493C1DEA421400046E44 /* SANFRANCISCO_14.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = SANFRANCISCO_14.gpx; sourceTree = "<group>"; };
+		7F2A493D1DEA421A00046E44 /* SANFRANCISCO_15.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = SANFRANCISCO_15.gpx; sourceTree = "<group>"; };
+		7F2A49421DEA477C00046E44 /* SANFRANCISCO_16.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = SANFRANCISCO_16.gpx; sourceTree = "<group>"; };
+		7F2A49431DEA47E100046E44 /* SANFRANCISCO_17.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = SANFRANCISCO_17.gpx; sourceTree = "<group>"; };
+		7F2A49441DEA484500046E44 /* SANFRANCISCO_18.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = SANFRANCISCO_18.gpx; sourceTree = "<group>"; };
+		7F2A49451DEA50FB00046E44 /* SANFRANCISCO_GYM.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = SANFRANCISCO_GYM.gpx; sourceTree = "<group>"; };
 		7F7EDC221D4AC5FA004599FF /* Fake.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Fake.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		7F7EDC261D4AC5FA004599FF /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		7F7EDC281D4AC5FA004599FF /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -132,6 +153,32 @@
 			name = Frameworks;
 			sourceTree = "<group>";
 		};
+		7F2A492C1DEA3C2000046E44 /* San Franciasco */ = {
+			isa = PBXGroup;
+			children = (
+				7F2A492F1DEA3CDE00046E44 /* SANFRANCISCO_1.gpx */,
+				7F2A49301DEA3CE700046E44 /* SANFRANCISCO_2.gpx */,
+				7F2A49311DEA3CEF00046E44 /* SANFRANCISCO_3.gpx */,
+				7F2A49321DEA3CF500046E44 /* SANFRANCISCO_4.gpx */,
+				7F2A49331DEA3CFC00046E44 /* SANFRANCISCO_5.gpx */,
+				7F2A49341DEA3D0300046E44 /* SANFRANCISCO_6.gpx */,
+				7F2A49351DEA3D0900046E44 /* SANFRANCISCO_7.gpx */,
+				7F2A49361DEA3D1100046E44 /* SANFRANCISCO_8.gpx */,
+				7F2A49371DEA3D1900046E44 /* SANFRANCISCO_9.gpx */,
+				7F2A49381DEA3D1E00046E44 /* SANFRANCISCO_10.gpx */,
+				7F2A49391DEA41FE00046E44 /* SANFRANCISCO_11.gpx */,
+				7F2A493A1DEA420500046E44 /* SANFRANCISCO_12.gpx */,
+				7F2A49431DEA47E100046E44 /* SANFRANCISCO_17.gpx */,
+				7F2A49421DEA477C00046E44 /* SANFRANCISCO_16.gpx */,
+				7F2A493B1DEA420A00046E44 /* SANFRANCISCO_13.gpx */,
+				7F2A493C1DEA421400046E44 /* SANFRANCISCO_14.gpx */,
+				7F2A493D1DEA421A00046E44 /* SANFRANCISCO_15.gpx */,
+				7F2A49441DEA484500046E44 /* SANFRANCISCO_18.gpx */,
+				7F2A49451DEA50FB00046E44 /* SANFRANCISCO_GYM.gpx */,
+			);
+			name = "San Franciasco";
+			sourceTree = "<group>";
+		};
 		7F7EDC191D4AC5FA004599FF = {
 			isa = PBXGroup;
 			children = (
@@ -157,6 +204,7 @@
 		7F7EDC241D4AC5FA004599FF /* Fake */ = {
 			isa = PBXGroup;
 			children = (
+				7F2A492C1DEA3C2000046E44 /* San Franciasco */,
 				7FF217EB1D73BEF400075014 /* Santa rosa */,
 				7FF5872B1D6D36380063B2F6 /* Puntos San andres isla */,
 				7FACC90C1D5F6D3D00C6ED59 /* Rutas */,
@@ -238,6 +286,8 @@
 				7FACC9071D5D434F00C6ED59 /* California8.gpx */,
 				7FACC9081D5D44D200C6ED59 /* California9.gpx */,
 				7FACC9091D5D44DE00C6ED59 /* California10.gpx */,
+				7F211B011DE3CF1C009653BA /* California11.gpx */,
+				7F211B021DE3D0A2009653BA /* California12.gpx */,
 			);
 			name = "Puntos California";
 			sourceTree = "<group>";
@@ -609,6 +659,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
+				DEVELOPMENT_TEAM = 96BQQ3TJ76;
 				INFOPLIST_FILE = Fake/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.example.Fake;
@@ -622,6 +673,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
+				DEVELOPMENT_TEAM = 96BQQ3TJ76;
 				INFOPLIST_FILE = Fake/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.example.Fake;
