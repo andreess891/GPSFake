@@ -63,6 +63,7 @@
 		7F2A49431DEA47E100046E44 /* SANFRANCISCO_17.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = SANFRANCISCO_17.gpx; sourceTree = "<group>"; };
 		7F2A49441DEA484500046E44 /* SANFRANCISCO_18.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = SANFRANCISCO_18.gpx; sourceTree = "<group>"; };
 		7F2A49451DEA50FB00046E44 /* SANFRANCISCO_GYM.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = SANFRANCISCO_GYM.gpx; sourceTree = "<group>"; };
+		7F2A49461DEB566C00046E44 /* SAN_FRANCISCO_MODIFY.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = SAN_FRANCISCO_MODIFY.gpx; sourceTree = "<group>"; };
 		7F7EDC221D4AC5FA004599FF /* Fake.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Fake.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		7F7EDC261D4AC5FA004599FF /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		7F7EDC281D4AC5FA004599FF /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -161,6 +162,7 @@
 				7F2A49311DEA3CEF00046E44 /* SANFRANCISCO_3.gpx */,
 				7F2A49321DEA3CF500046E44 /* SANFRANCISCO_4.gpx */,
 				7F2A49331DEA3CFC00046E44 /* SANFRANCISCO_5.gpx */,
+				7F2A49461DEB566C00046E44 /* SAN_FRANCISCO_MODIFY.gpx */,
 				7F2A49341DEA3D0300046E44 /* SANFRANCISCO_6.gpx */,
 				7F2A49351DEA3D0900046E44 /* SANFRANCISCO_7.gpx */,
 				7F2A49361DEA3D1100046E44 /* SANFRANCISCO_8.gpx */,
