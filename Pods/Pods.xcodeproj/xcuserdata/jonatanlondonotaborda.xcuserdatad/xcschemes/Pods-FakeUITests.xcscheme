@@ -14,9 +14,9 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "4D8F0E4FE06FAD65D8B575341C394BB7"
-               BuildableName = "libPods-Fake.a"
-               BlueprintName = "Pods-Fake"
+               BlueprintIdentifier = "656BEC9C74082774D267FBDAE939BBBF"
+               BuildableName = "libPods-FakeUITests.a"
+               BlueprintName = "Pods-FakeUITests"
                ReferencedContainer = "container:Pods.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
@@ -47,9 +47,9 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "4D8F0E4FE06FAD65D8B575341C394BB7"
-            BuildableName = "libPods-Fake.a"
-            BlueprintName = "Pods-Fake"
+            BlueprintIdentifier = "656BEC9C74082774D267FBDAE939BBBF"
+            BuildableName = "libPods-FakeUITests.a"
+            BlueprintName = "Pods-FakeUITests"
             ReferencedContainer = "container:Pods.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
